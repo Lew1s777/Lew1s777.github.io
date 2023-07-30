@@ -4,6 +4,19 @@
   
   
   <entry>
+    <title>Announcement</title>
+    <link href="/project/2023/07/30/Announcement/"/>
+    <url>/project/2023/07/30/Announcement/</url>
+    
+    <content type="html"><![CDATA[<h1 id="Announcement"><a href="#Announcement" class="headerlink" title="Announcement"></a>Announcement</h1><figure class="highlight erlang-repl"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs erlang-repl">Hello World!<br></code></pre></td></tr></table></figure><p>This website starts construction today.</p><p>If you have any issues, contact <code>Lew1s0620@outlook.com</code></p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Hello World</title>
     <link href="/project/2023/07/30/hello-world/"/>
     <url>/project/2023/07/30/hello-world/</url>
